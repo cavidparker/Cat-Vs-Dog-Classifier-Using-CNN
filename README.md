@@ -16,4 +16,4 @@
     - 4.1 Training and validation curves
     - 4.2 Confusion matrix
 ### 5. Prediction and submition
-    - 5.1 Predict and Submit results.
+    - 5.1 Predict and Submit results...
