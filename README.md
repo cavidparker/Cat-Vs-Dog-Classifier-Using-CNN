@@ -3,7 +3,7 @@
 ### 1. Introduction
 ### 2. Data preparation
     - 2.1 Load data.
-    - 2.2 Check for null and missing values
+    - 2.2 Check for null and missing values.
     - 2.3 Normalization
     - 2.4 Reshape
     - 2.5 Label encoding
