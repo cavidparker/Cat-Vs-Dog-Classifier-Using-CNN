@@ -5,7 +5,7 @@
     - 2.1 Load data.
     - 2.2 Check for null and missing values.
     - 2.3 Normalization.
-    - 2.4 Reshape
+    - 2.4 Reshape.
     - 2.5 Label encoding
     - 2.6 Split training and valdiation set
 ### 3. CNN
