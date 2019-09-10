@@ -10,7 +10,7 @@
     - 2.6 Split training and valdiation set.
 ### 3. CNN
     - 3.1 Define the model.
-    - 3.2 Set the optimizer and annealer
+    - 3.2 Set the optimizer and annealer.
     - 3.3 Data augmentation
     - 4. Evaluate the model
     - 4.1 Training and validation curves
